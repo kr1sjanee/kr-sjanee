@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning **vue.js**
 
 - 📫 How to reach me **cabilankrisjane@gmail.com**
+
+### Portfolio
+If you want to know more about me, visit my portfolio at:
+-(https://kr1sjanee.netlify.app/)

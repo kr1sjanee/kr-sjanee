@@ -7,4 +7,4 @@
 
 ### Portfolio
 If you want to know more about me, visit my portfolio at:
--[kr1sjanee.netlify.app](https://kr1sjanee.netlify.app/)
+- [kr1sjanee.netlify.app](https://kr1sjanee.netlify.app/)
